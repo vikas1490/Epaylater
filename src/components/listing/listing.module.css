@@ -1,0 +1,10 @@
+.root {
+    width: 50%;
+ 
+  }
+.inline{
+    display: 'inline';
+  }
+  .pointer{
+      cursor: pointer;
+  }
